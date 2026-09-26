@@ -36,24 +36,6 @@
   "heroImage": "home/1790408390373-1xmey2.jpg",
   "news": [
     {
-      "date": "April 2024",
-      "text": "Presented a poster at CSBS Research Day at the UofU on the use of machine learning and the NASA SWOT dataset to understand the water level in the Great Salt Lake Basin.",
-      "link": "/projects/?view=water-from-above",
-      "label": "Poster Link"
-    },
-    {
-      "date": "January 2026",
-      "text": "Started PhD in Geography at the University of Utah - School of Environment, Society and Sustainability. There, he will be working as a Graduate Research Assistant at the Earth and Water Observation and Sensing (EWOS) lab with Dr Sonam Sherpa."
-    },
-    {
-      "date": "September 2025",
-      "text": "Joined Auburn University as an Instructor to conduct science labs for undergraduates. Also, jointly appointed by the Citizen Science GIS lab at the Department of Geosciences as a GIS Technician to work on geospatial projects."
-    },
-    {
-      "date": "August 2025",
-      "text": "Graduated with an MS in Geography and Environmental Studies and a Graduate Certificate in GIS from Auburn University, Department of Geosciences."
-    },
-    {
       "date": "July 2025",
       "text": "Attended the Esri User Conference in San Diego, CA as a student assistant."
     }
@@ -157,14 +139,6 @@
   ],
   "publications": [
     {
-      "id": "heat-action-plans",
-      "year": "2025",
-      "title": "Evaluation of Heat Action Plans to Minimize Social Inequality of Heat Risk in South Asian Cities",
-      "authors": "Rishal F.H., Mitra C., Byahut S.",
-      "status": "In preparation",
-      "link": "/#contact"
-    },
-    {
       "id": "urban-park-use",
       "year": "2023",
       "title": "Changing Perspectives in Urban Park Use and Management in Dhaka City, Bangladesh",
@@ -182,8 +156,8 @@
     }
   ],
   "contact": {
-    "email": "fhr0002@auburn.edu",
-    "phone": "+1 334-895-0487",
-    "location": "Auburn, AL, USA"
+    "email": "munakhancu@gmail.com",
+    "phone": "+8801537415753",
+    "location": "Chittagong, Bangladesh"
   }
 }
