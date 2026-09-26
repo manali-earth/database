@@ -1,1 +1,49 @@
-{"page": "conferences", "title": "Conferences", "heading": "Conferences and Events", "items": [{"id": "esri-uc-2025", "title": "Esri User Conference 2025", "date": "San Diego, CA, 2025", "details": "Worked as a student assistant alongside 60 other students from across the US for an entire week with the Esri team to help organize the largest GIS conference, with 20,000+ participants."}, {"id": "ai-data-science-agriculture-2025", "title": "Forum on AI and Data Science for Agriculture", "date": "AU Hotel, 2025", "details": "Presented a poster titled ‘LULC change of South Asia using the Random Forest Machine Learning Technique’ on April 21, 2025 at the AU Hotel."}, {"id": "aag-2025", "title": "AAG 2025", "date": "Detroit, MI, USA", "details": "Presented on Heat Vulnerability Index and Climate Policies on Chattogram City at the American Association of Geographers (AAG) 2025 annual meeting in Detroit."}, {"id": "agu-2024", "title": "AGU 2024", "date": "Washington DC, USA", "details": "Presented on Urban Heat Island, LULC Change and Heat Action Plans of South Asia at the American Geophysical Union (AGU) annual conference in DC."}, {"id": "ags-2024", "title": "AGS 2024", "date": "Columbia University, USA", "details": "Presented a lightning talk on Climate Policies and Social Justice of South Asia at Columbia Climate School in New York City in November 2024."}, {"id": "bccc-2022", "title": "BCCC 2022", "date": "AIT, Thailand", "details": "The team presented on the energy demand-based GHG mitigation of Jahangirnagar University at the Bangabandhu Chair Closing Ceremony in Thailand, invited by Prof. Joyashree Roy."}, {"id": "unleash-2022", "title": "UNLEASH 2022", "date": "Mysore, India", "details": "Attended as a Global Talent participant at UNLEASH with 1000 other participants to find solutions related to the SDGs. The team worked on waste management (SDG 13 - Climate Action)."}, {"id": "drsd-2021", "title": "DRSD 2021", "date": "AIT, Thailand (Virtual)", "details": "Presented on Post-disaster Recovery of Bangladesh at the Disaster Resilience and Sustainable Development Symposium at the Asian Institute of Technology, Thailand."}, {"id": "asian-summer-school-2018", "title": "Asian Summer School 2018", "date": "Thailand", "details": "Attended the summer school on Geoinformatics for Sustainable Agriculture organized by RSGIS FoS at the Asian Institute of Technology, Thailand, with participants from 9 Asian countries."}]}
+{
+  "page": "conferences",
+  "title": "Conferences",
+  "heading": "Conferences and Events",
+  "items": [
+    {
+      "id": "confernce-1",
+      "title": "Nutrition Summit 2025",
+      "date": "[01/02/2025 - 02/02/2025] Chattogram",
+      "details": "Nutrition Summit 2025 Organized by Institute of Nutrition and Food Science (INFS), University of Dhaka."
+    },
+    {
+      "id": "confernce-2",
+      "title": "Jamal Nazrul Islam and A.F Mujibur Rahman Research and Innovation Festival, 2025",
+      "date": "[24/02/2025 - 26/02/2025] Chattogram",
+      "details": "Jamal Nazrul Islam and A.F Mujibur Rahman Research and Innovation Festival, 2025 Organized by Jamal Nazrul Islam Research\nCentre, University of Chittagong."
+    },
+    {
+      "id": "confernce-3",
+      "title": "PCOS Awareness Program",
+      "date": "[23/09/2025]",
+      "details": "PCOS Awareness Program Organized by the Public Health Research Lab, Department of Geography and Environmental Studies, University\nof Chittagong."
+    },
+    {
+      "id": "confernce-4",
+      "title": "Seminar for 'Energy Justice in Bangladesh'",
+      "date": "[24/05/2025] Chattogram",
+      "details": "Seminar for 'Energy Justice in Bangladesh' Organized by Energy and Social Justice Forum at the Biological Faculty Conference Hall,\nUniversity of Chittagong."
+    },
+    {
+      "id": "confernce-5",
+      "title": "International Conference on Environmental Protection for Sustainable Development (ICEPSD-2022)",
+      "date": "[02/09/2022 - 04/09/2022] Dhaka",
+      "details": "International Conference on Environmental Protection for Sustainable Development (ICEPSD-2022) Held at CIRDAP Conference Hall,\nUniversity of Dhaka."
+    },
+    {
+      "id": "confernce-6",
+      "title": "International Conference of Physical Science (ICPS-2022)",
+      "date": "[21/11/2022 - 23/11/2022]",
+      "details": "International Conference of Physical Science (ICPS-2022) Held at the Shahjalal University of Science and Technology, Sylhet, Bangladesh."
+    },
+    {
+      "id": "confernce-7",
+      "title": "Workshop on “Environmental Pollution and Awareness Raising\"",
+      "date": "[18/02/2019]",
+      "details": "Workshop on “Environmental Pollution and Awareness Raising\" Organized by “National Environmental Awareness & Restoration\n(NEAR)” and held at the University of Chittagong, Bangladesh."
+    }
+  ]
+}
