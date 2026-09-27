@@ -90,30 +90,36 @@
   ],
   "education": [
     {
-      "period": "2023-2025",
-      "institution": "Auburn University, AL, USA",
-      "role": "MS in Geography and Environmental Studies",
-      "details": "Thesis: Urbanization and Heat Island Effect in South Asia. Certificate in Geographic Information Systems (GIS)."
+      "period": "Mar 2024 - Sep 2025",
+      "institution": "University of Chittagong",
+      "role": "Master of Science - MS(Thesis), Geography & Environmental Studies",
+      "details": "<b>Field(s) of study:</b> Geography and Environmental Studies | <b>Final grade:</b> CGPA: 3.94 | <b>Thesis:</b> The Health Profile of Street Children in Chattogram City,\nBangladesh: A Geographical Approach <br> \n<b>Main Courses:</b> Public Health, Sustainable Land Management, Agro-climatology, Geography of Gender and Human Development, Regional Planning and Development, Urban Planning, Development and Management."
     },
     {
-      "period": "2017-2021",
-      "institution": "Jahangirnagar University, Bangladesh",
-      "role": "BSc in Geography and Environment",
-      "details": "Volunteered at university clubs and initiated a project on campus sustainability."
+      "period": "Jan 2019 - Feb 2024",
+      "institution": "University of Chittagong",
+      "role": "BSc in Geography & Environmental Studies",
+      "details": "<b>Field(s) of study:</b> Geography and Environmental Studies | <b>Final grade:</b> CGPA: 3.62 <br>\n<b>Main Courses:</b> Application of Health Study in Geography, Research Methodology, Introduction to Research Method, Environmental Pollution Study, Environmental Degradation and Management, Hydrology, Rural Development and Planning, Climatology, Oceanography, Pollution Study, Environmental Impact Assessment (EIA), Urban Geography, Fundamentals of Statistics, Geo-statistics, and Geostatistical Analysis on Maps etc."
     }
   ],
   "experience": [
     {
-      "period": "2023-2025",
-      "institution": "Auburn University, AL, USA",
-      "role": "Instructor · GIS Technician",
+      "period": "Apr 2026 - Present",
+      "institution": "Save the Children in Bangladesh",
+      "role": "Assistant- MIS",
       "details": "Conducted science labs and worked on geospatial projects."
     },
     {
-      "period": "2021-2023",
-      "institution": "Jahangirnagar University, Bangladesh",
-      "role": "Graduate Teaching and Research Assistant",
-      "details": "Delivered lectures, conducted labs, graded exams, mentored students, collected field data, and created maps."
+      "period": "Feb 2024 - Present",
+      "institution": "Bangladesh Institute of Innovative Health Research - BIIHR",
+      "role": "Senior Research Assistant",
+      "details": "<b>Main Responsibilities:</b> Supervising the research assistants and data enumerators, monitoring and evaluating their tasks, organizing regular team\nmeetings, presentations, reporting, proposal writing for grants, data analysis, scientific writing, etc."
+    },
+    {
+      "period": "Jun 2022 - Sep 2025",
+      "institution": "Public Health Research Lab, Department of Geography and Environmental Studies, University of Chittagong - Chittagong, Bangladesh",
+      "role": "Research assistant in university",
+      "details": "<b>Main Responsibilities:</b> Literature review, research design and proposal writing, data collection, data analysis, field supervising, manuscript writing, dealing with stakeholders, reporting, presentation, organizing seminars, etc."
     }
   ],
   "projects": [
