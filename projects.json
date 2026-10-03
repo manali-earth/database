@@ -31,80 +31,22 @@
   ],
   "projects": [
     {
-      "id": "climate-regions",
+      "meta": "A GIS based map covering the intervention area of Rohingya refugee camps under Child protection program, 'Save the Children, Cox's Bazar'.",
+      "image": "projects/1791036064827-1d32da.png",
       "category": "gis-maps",
-      "title": "Classify climate regions with Python - ESRI Tutorial",
-      "image": "projects/project-1.jpg",
-      "meta": "ArcGIS Pro · Python Notebook",
-      "summary": "Tool used: ArcGIS Pro (Python Notebook). Skills applied: multidimensional raster analysis, Winkler Index calculation, climate zoning. Dataset: NASA Daymet daily max/min temperature (2000-2020). A self-paced project from Learn ArcGIS by Esri authors Lain Graham, Josh Grail, Cole Walts, and Hong Xu. Mapped viticultural climate zoning in Napa County, California, using a 21-year subset of NASA's Daymet dataset. Growing Degree Days were calculated per pixel for each year to assess cumulative heat units, and the resulting values were used to classify the region into six Winkler Index climate zones, a widely accepted framework in viticulture. A temporal chart visualized how these zones shifted over time, providing insight into the ongoing impacts of climate change on Napa's wine industry.",
-      "sections": [
-        {
-          "heading": "",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Tool used: ArcGIS Pro (Python Notebook). Skills applied: multidimensional raster analysis, Winkler Index calculation, climate zoning. Dataset: NASA Daymet daily max/min temperature (2000-2020). A self-paced project from Learn ArcGIS by Esri authors Lain Graham, Josh Grail, Cole Walts, and Hong Xu. Mapped viticultural climate zoning in Napa County, California, using a 21-year subset of NASA's Daymet dataset. Growing Degree Days were calculated per pixel for each year to assess cumulative heat units, and the resulting values were used to classify the region into six Winkler Index climate zones, a widely accepted framework in viticulture. A temporal chart visualized how these zones shifted over time, providing insight into the ongoing impacts of climate change on Napa's wine industry."
-            }
-          ]
-        }
-      ]
+      "title": "Child Protection Map"
     },
     {
-      "id": "urbanization-pattern",
-      "category": "gis-maps",
-      "title": "Urbanization pattern using Machine Learning on Google Earth Engine",
-      "image": "projects/project-2.jpg",
-      "meta": "Google Earth Engine · Random Forest",
-      "summary": "Tool used: Google Earth Engine, ArcGIS Pro. Skills applied: Random Forest classification, LULC change detection, remote sensing, land surface temperature analysis. Dataset: Landsat imagery (2000-2020). Independent research (MS thesis work). Analyzed Land Use Land Cover change across nine South Asian cities over a 20-year period using the Random Forest machine learning algorithm: Rajshahi and Chattogram in Bangladesh, Ahmedabad, Bhubaneswar, and Kanpur in India, Gwadar and Quetta in Pakistan, Kathmandu in Nepal, and Kabul in Afghanistan. Satellite imagery was classified into urban, vegetation, water, and bare land categories, revealing a substantial increase in built-up areas often replacing natural land covers. The study also assessed the impact of urbanization on land surface temperature, highlighting spatial correlations between urban growth and thermal intensity.",
-      "sections": [
-        {
-          "heading": "",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Tool used: Google Earth Engine, ArcGIS Pro. Skills applied: Random Forest classification, LULC change detection, remote sensing, land surface temperature analysis. Dataset: Landsat imagery (2000-2020). Independent research (MS thesis work). Analyzed Land Use Land Cover change across nine South Asian cities over a 20-year period using the Random Forest machine learning algorithm: Rajshahi and Chattogram in Bangladesh, Ahmedabad, Bhubaneswar, and Kanpur in India, Gwadar and Quetta in Pakistan, Kathmandu in Nepal, and Kabul in Afghanistan. Satellite imagery was classified into urban, vegetation, water, and bare land categories, revealing a substantial increase in built-up areas often replacing natural land covers. The study also assessed the impact of urbanization on land surface temperature, highlighting spatial correlations between urban growth and thermal intensity."
-            }
-          ]
-        }
-      ]
+      "meta": "Working under the child protection program funded by United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). The funded project's objective is to manage the major cases occurs at the Rohingya Refugee camps. The migrant children regularly face severe misconduct such as neglect, harm, abuse, exploitation, harrassment,etc, which are identified, monitored and solved by the appointed case workers. My responsibility under UNOCHA project as an MIS is to deploy the case management database, analysis collected data and report the cases, case progress and major case trends. However, already completed the first phase of this project and got assigned for the second phase till december 2027. My aim for the second phase is to report major case trends and highlight the extremely risky camps on maps. Moreover, the facility offices will be demonstrated on GIS based maps on upcoming day.",
+      "image": "projects/1791036237649-nw3kp6.jpeg",
+      "category": "unocha",
+      "title": "Major cases occurs at the Rohingya Refugee camps"
     },
     {
-      "id": "nyc-hotspots",
-      "category": "gis-maps",
-      "title": "Spatiotemporal Hotspot and Outlier Analysis in New York City",
-      "image": "projects/project-3.jpg",
-      "meta": "ArcGIS Pro · Space-Time Cube",
-      "summary": "Tool used: ArcGIS Pro. Skills applied: space-time cube, emerging hotspot analysis, local outlier analysis, 3D visualization. Dataset: eight years of graffiti incidents in NYC. Course: GEOG 6700 - Quantitative Methods and Spatial Analysis, Auburn University. Explored temporal and spatial patterns of urban graffiti incidents in New York using ArcGIS Pro's space-time cube tools. By constructing a 3D space-time cube and performing Emerging Hotspot and Local Outlier Analysis, evolving clusters and anomalies over time were identified, visualizing not just where but when high or low incident patterns occurred, offering insights for urban planning and policy.",
-      "sections": [
-        {
-          "heading": "",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Tool used: ArcGIS Pro. Skills applied: space-time cube, emerging hotspot analysis, local outlier analysis, 3D visualization. Dataset: eight years of graffiti incidents in NYC. Course: GEOG 6700 - Quantitative Methods and Spatial Analysis, Auburn University. Explored temporal and spatial patterns of urban graffiti incidents in New York using ArcGIS Pro's space-time cube tools. By constructing a 3D space-time cube and performing Emerging Hotspot and Local Outlier Analysis, evolving clusters and anomalies over time were identified, visualizing not just where but when high or low incident patterns occurred, offering insights for urban planning and policy."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "id": "water-from-above",
-      "category": "gis-maps",
-      "title": "Water level from above",
-      "image": "home/project-3.jpg",
-      "meta": "NASA SWOT · Machine Learning",
-      "summary": "Exploring NASA SWOT data and machine learning to understand water-level dynamics in the Great Salt Lake Basin.",
-      "sections": [
-        {
-          "heading": "",
-          "content": [
-            {
-              "type": "paragraph",
-              "text": "Exploring NASA SWOT data and machine learning to understand water-level dynamics in the Great Salt Lake Basin."
-            }
-          ]
-        }
-      ]
+      "meta": "The map demonstrating the spread of street children community in Chattogram city corporation. The dots on the map highlighting the two types of street children; street living and home living according to the definition of street children by WHO. The children were identified first along the city and then coordinate values were taken by using Kobo toolbox. Hence the GPS values used to create the map by using Geographical Information System (GIS)",
+      "image": "projects/1791036356940-lo63is.png",
+      "title": "Street children distribution map",
+      "category": "gis-maps"
     }
   ]
 }
