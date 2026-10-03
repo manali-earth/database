@@ -122,29 +122,7 @@
       "details": "<b>Main Responsibilities:</b> Literature review, research design and proposal writing, data collection, data analysis, field supervising, manuscript writing, dealing with stakeholders, reporting, presentation, organizing seminars, etc."
     }
   ],
-  "projects": [
-    {
-      "id": "climate-regions",
-      "title": "Classify climate regions with Python - ESRI Tutorial",
-      "image": "home/project-1.jpg",
-      "description": "Climate zoning and multidimensional raster analysis using ArcGIS Pro Python Notebook.",
-      "meta": "ArcGIS Pro · Python Notebook"
-    },
-    {
-      "id": "urbanization-pattern",
-      "title": "Urbanization pattern using Machine Learning on Google Earth Engine",
-      "image": "home/project-2.jpg",
-      "description": "LULC change detection and land surface temperature analysis across nine South Asian cities.",
-      "meta": "Google Earth Engine · ArcGIS Pro"
-    },
-    {
-      "id": "water-from-above",
-      "title": "Water level from above",
-      "image": "home/project-3.jpg",
-      "description": "Exploring NASA SWOT data and machine learning to understand water-level dynamics in the Great Salt Lake Basin.",
-      "meta": "NASA SWOT · Machine Learning"
-    }
-  ],
+  "projects": [],
   "publications": [
     {
       "id": "urban-park-use",
