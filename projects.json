@@ -34,19 +34,22 @@
       "meta": "A GIS based map covering the intervention area of Rohingya refugee camps under Child protection program, 'Save the Children, Cox's Bazar'.",
       "image": "projects/1791036064827-1d32da.png",
       "category": "gis-maps",
-      "title": "Child Protection Map"
+      "title": "Child Protection Map",
+      "id": "project-1"
     },
     {
       "meta": "Working under the child protection program funded by United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). The funded project's objective is to manage the major cases occurs at the Rohingya Refugee camps. The migrant children regularly face severe misconduct such as neglect, harm, abuse, exploitation, harrassment,etc, which are identified, monitored and solved by the appointed case workers. My responsibility under UNOCHA project as an MIS is to deploy the case management database, analysis collected data and report the cases, case progress and major case trends. However, already completed the first phase of this project and got assigned for the second phase till december 2027. My aim for the second phase is to report major case trends and highlight the extremely risky camps on maps. Moreover, the facility offices will be demonstrated on GIS based maps on upcoming day.",
       "image": "projects/1791036237649-nw3kp6.jpeg",
       "category": "unocha",
-      "title": "Major cases occurs at the Rohingya Refugee camps"
+      "title": "Major cases occurs at the Rohingya Refugee camps",
+      "id": "project-2"
     },
     {
       "meta": "The map demonstrating the spread of street children community in Chattogram city corporation. The dots on the map highlighting the two types of street children; street living and home living according to the definition of street children by WHO. The children were identified first along the city and then coordinate values were taken by using Kobo toolbox. Hence the GPS values used to create the map by using Geographical Information System (GIS)",
       "image": "projects/1791036356940-lo63is.png",
       "title": "Street children distribution map",
-      "category": "gis-maps"
+      "category": "gis-maps",
+      "id": "project-3"
     }
   ]
 }
