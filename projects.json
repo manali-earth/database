@@ -1,7 +1,7 @@
 {
   "page": "gis-projects",
   "title": "Projects",
-  "heading": "My Projects",
+  "heading": "Projects",
   "intro": "Here are some of the recent geospatial projects answering environment-related spatial questions, using tools like ArcGIS Pro, Google Earth Engine, QGIS, GeoDa, Python, and R to analyze, visualize, and map meaningful insights — from detecting LULC change with a Random Forest machine learning model to regression models, vulnerability assessments, and hotspot analysis.",
   "categories": [
     {
