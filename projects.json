@@ -36,7 +36,9 @@
       "category": "gis-maps",
       "title": "Child Protection Map",
       "id": "project-1",
-      "sections": [],
+      "sections": [
+        {}
+      ],
       "summary": "A GIS based map covering the intervention area of Rohingya refugee camps under Child protection program, 'Save the Children, Cox's Bazar'."
     },
     {
@@ -50,12 +52,12 @@
           "content": [
             {
               "type": "paragraph",
-              "text": "Working under the child protection program funded by United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA). The funded project's objective is to manage the major cases occurs at the Rohingya Refugee camps. The migrant children regularly face severe misconduct such as neglect, harm, abuse, exploitation, harrassment,etc, which are identified, monitored and solved by the appointed case workers. My responsibility under UNOCHA project as an MIS is to deploy the case management database, analysis collected data and report the cases, case progress and major case trends. However, already completed the first phase of this project and got assigned for the second phase till december 2027. My aim for the second phase is to report major case trends and highlight the extremely risky camps on maps. Moreover, the facility offices will be demonstrated on GIS based maps on upcoming day."
+              "text": "The funded project's objective is to manage the major cases occurs at the Rohingya Refugee camps. The migrant children regularly face severe misconduct such as neglect, harm, abuse, exploitation, harrassment,etc, which are identified, monitored and solved by the appointed case workers. My responsibility under UNOCHA project as an MIS is to deploy the case management database, analysis collected data and report the cases, case progress and major case trends. However, already completed the first phase of this project and got assigned for the second phase till december 2027. My aim for the second phase is to report major case trends and highlight the extremely risky camps on maps. Moreover, the facility offices will be demonstrated on GIS based maps on upcoming day."
             }
           ]
         }
       ],
-      "summary": "Working under the child protection program funded by United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA)"
+      "summary": "Working under the child protection program funded by United Nations Office for the Coordination of Humanitarian Affairs (UNOCHA)."
     },
     {
       "meta": "",
@@ -68,12 +70,12 @@
           "content": [
             {
               "type": "paragraph",
-              "text": "The map demonstrating the spread of street children community in Chattogram city corporation. The dots on the map highlighting the two types of street children; street living and home living according to the definition of street children by WHO. The children were identified first along the city and then coordinate values were taken by using Kobo toolbox. Hence the GPS values used to create the map by using Geographical Information System (GIS)"
+              "text": "The dots on the map highlighting the two types of street children; street living and home living according to the definition of street children by WHO. The children were identified first along the city and then coordinate values were taken by using Kobo toolbox. Hence the GPS values used to create the map by using Geographical Information System (GIS)"
             }
           ]
         }
       ],
-      "summary": "The map demonstrating the spread of street children community in Chattogram city corporation"
+      "summary": "The map demonstrating the spread of street children community in Chattogram city corporation."
     }
   ]
 }
