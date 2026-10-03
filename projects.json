@@ -3,9 +3,36 @@
   "title": "Projects",
   "heading": "My Projects",
   "intro": "Here are some of the recent geospatial projects answering environment-related spatial questions, using tools like ArcGIS Pro, Google Earth Engine, QGIS, GeoDa, Python, and R to analyze, visualize, and map meaningful insights — from detecting LULC change with a Random Forest machine learning model to regression models, vulnerability assessments, and hotspot analysis.",
+  "categories": [
+    {
+      "id": "data-analysis-visualization",
+      "label": "Data analysis and visualization"
+    },
+    {
+      "id": "gis-maps",
+      "label": "GIS maps"
+    },
+    {
+      "id": "unocha",
+      "label": "UNOCHA project"
+    },
+    {
+      "id": "public-health",
+      "label": "Public Health projects"
+    },
+    {
+      "id": "academic-field",
+      "label": "Academic field projects"
+    },
+    {
+      "id": "feasibility-study",
+      "label": "Feasibility study"
+    }
+  ],
   "projects": [
     {
       "id": "climate-regions",
+      "category": "gis-maps",
       "title": "Classify climate regions with Python - ESRI Tutorial",
       "image": "projects/project-1.jpg",
       "meta": "ArcGIS Pro · Python Notebook",
@@ -24,6 +51,7 @@
     },
     {
       "id": "urbanization-pattern",
+      "category": "gis-maps",
       "title": "Urbanization pattern using Machine Learning on Google Earth Engine",
       "image": "projects/project-2.jpg",
       "meta": "Google Earth Engine · Random Forest",
@@ -42,6 +70,7 @@
     },
     {
       "id": "nyc-hotspots",
+      "category": "gis-maps",
       "title": "Spatiotemporal Hotspot and Outlier Analysis in New York City",
       "image": "projects/project-3.jpg",
       "meta": "ArcGIS Pro · Space-Time Cube",
@@ -60,6 +89,7 @@
     },
     {
       "id": "water-from-above",
+      "category": "gis-maps",
       "title": "Water level from above",
       "image": "home/project-3.jpg",
       "meta": "NASA SWOT · Machine Learning",
