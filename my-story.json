@@ -2,49 +2,41 @@
   "page": "my-story",
   "title": "My Story",
   "heading": "My Story",
-  "intro": "",
+  "intro": "I am Maharaj Khan Muna (Muna Khan). I am a data person and researcher, currently working in an International NGO 'Save the Children International' as an Assistant-MIS. Previously, i worked in a research consultancy firm for two years as a Senior Research Assistant(SRA). I completed my graduation and post-graduation from department of Geography & Environmental Studies, University of Chittagong. So, yes this is i am, combination of a Geographer, Researcher & Data analyst.",
   "sections": [
     {
-      "heading": "",
       "content": [
         {
-          "type": "image",
-          "image": "my-story/1790412006275-j3tutv.jpg",
-          "alt": "A Geographer stands with the proud geographer icon 'Bijoypur white clay hill' of her place or origin, Netrokona, Bangladesh."
-        },
+          "type": "paragraph",
+          "text": "While walking upstairs in my faculty on the day of admission, tear dropped from my eyes. I couldn’t stopped myself regretting for not getting the opportunity to study in Pharmacy. Yes, i was passionate about studying human health, and medicine. But fortune choses me to study Geography. In Bangladesh, admission tests are considered as a battle. An war to secure your position in the public universities, since these institutions offer fully funded study opportunity, accomodation, transport, scholarships and many other facilities. Moreover, i don't have any scope to fund my own study as i belong to a middle class family. I accepted the subject Geography with a heavy heart. But God is actually the best planner. This interdisciplinary subject gifts me so many opportunity to study, work & research in different subjects. I got to study research methodology, i experienced so many field works & additionally i found my similar passion in some courses such as public health. Professor Dr. Alak Paul, who is my teacher as well as supervisor, motivates to to work in public health research. I worked with him in research projects like e-waste management,  Covid-19 induced disease, Dengue fever, Street children's health aspects etc. I found my previous passion to work for human's health in these public health research. I was happy that the subject Geography opens me the door to work for humans. I chooses human Geography as my core research interest & gradually working for vulnerable communities."
+        }
+      ],
+      "heading": "Journey to be a Geographer"
+    },
+    {
+      "heading": "Geographer to Public health Researcher",
+      "content": [
         {
           "type": "paragraph",
-          "text": "This is Muna Khan. An ambitious person with a research interest in public health. I persuaded a bechelor and a master degree in Geography and Environmental Study from University of Chittagong and currently working as an Assistant-MIS (Management Information System) in one of the leading international NGOs 'Save the Children International'."
-        },
-        {
-          "type": "image",
-          "image": "my-story/1790412110038-j0t5ah.jpg",
-          "alt": "Post-graduation thesis presentation day"
-        },
-        {
-          "type": "paragraph",
-          "text": "From my early graduation, i was enthusiast in research and worked in multiple public health research on environmental health, occupational health, e-waste management, Covid-19 induced diseases etc.My academic thesis was on the street children in Chattogram city that assessed infectious diseases, Wash, substance use, nutrition status and harmful sexual practices of the street children. "
-        },
-        {
-          "type": "image",
-          "image": "my-story/1790412500984-2bcrjk.jpg",
-          "alt": "Working under Save the Children"
-        },
+          "text": "Gaining hand-on academic training on research methodology and after completing my graduation, i applied in a research consultancy firm, 'Bangladesh Institute of Innovative Health Research' as a research assistant. This Organization changes my life, established my foundation in research, leadership and strengthen my capacity in data analysis. My first project was to work with the PCOS patients. The research was proposed by myself and got selected for further study. I worked hard & soul in this project and the outcome successfully published on my birthday. I was overwhelmed and accept this as a sign of God that he wants me to be a researcher in future. Thus, i worked for two years, two months in the organization and contribute in multiple public health research."
+        }
+      ]
+    },
+    {
+      "heading": "Becoming a data person ",
+      "content": [
         {
           "type": "paragraph",
-          "text": "Later, I worked with Bangladesh Institute of Innovative Health Research- BIIHR on public health issues like PCOS, Obesity, Nutrition, Mental health, Reproductive health and healthcare system such as Telemedicine, Oncology, Collaborative care etc. "
-        },
+          "text": "My passion in research got specified when i got selected in an International NGO as a data analyst. I was blessed to be chosen in such a renowned organisation in a very short time because of the dedication i made in skill building. I got appointed in a UNOCHA funded project in Child protection program, Cox's bazar. Now, contributing to manage database, validate data, data collection tool designing, quantitative analysis, reporting and GIS mapping. Moreover, guiding the field staffs for data collection, narrative reporting and providing data to the MEAL team is the other responsibilities i am performing."
+        }
+      ]
+    },
+    {
+      "heading": "Future goals",
+      "content": [
         {
           "type": "paragraph",
-          "text": "At present, i am working in Rohingya Refugee context in Cox’s bazar in Child protection (CP) sector with database including case management database (CPIMS+), Activity tracker and Group enrollment tracker (Prevention database). My core responsibility is to report monthly activity progress, donor indicator wise progress, case management data and total reach of Rohingya children. "
-        },
-        {
-          "type": "paragraph",
-          "text": "Hence, I successfully implemented my core research interest public health with data driven approach and working with the extremely vulnerable Rohingya migrants in such a challenging locational setting also highlights my outlook as a Geographer. "
-        },
-        {
-          "type": "paragraph",
-          "text": "In future, i aspire to acquire an MPH degree in Health Informatics and in far future i dream to pursue a PhD on vulnerablity in emergency context."
+          "text": "I aspire to pursue a second Master’s and a PhD in a third world country so that i could learn advance methods of research and data analysis and reapply in research, problem identification and policy implementation for my home country. In far future, i would like to contribute in development sector once again since my core passion is to work with people, addressing their sorrows and vulnerabilities. Hence, i dream to use my knowledge and expertize in serving the marginalized people of my country."
         }
       ]
     }
