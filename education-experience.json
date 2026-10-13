@@ -1,7 +1,7 @@
 {
   "page": "education-experience",
-  "title": "Education and Experience",
-  "heading": "Education and Experience",
+  "title": "Education & Experience",
+  "heading": "Education & Experience",
   "education": [
     {
       "period": "Mar 2024 - Sep 2025",
@@ -35,5 +35,6 @@
       "role": "Research assistant in university",
       "details": "<b>Main Responsibilities:</b> Literature review, research design and proposal writing, data collection, data analysis, field supervising, manuscript writing, dealing with stakeholders, reporting, presentation, organizing seminars, etc."
     }
-  ]
+  ],
+  "certificates": []
 }

@@ -27,6 +27,10 @@
     {
       "id": "feasibility-study",
       "label": "Feasibility study"
+    },
+    {
+      "id": "research-projects",
+      "label": "Research projects"
     }
   ],
   "projects": [

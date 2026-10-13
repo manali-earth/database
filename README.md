@@ -11,7 +11,7 @@ education-experience.json
 projects.json
 publications.json
 conferences.json
-leadership.json
+posters.json
 photos/
   home/            (has real demo photos)
   projects/        (has real demo photos)
@@ -19,8 +19,12 @@ photos/
   education-experience/  (empty — .gitkeep only)
   publications/    (empty — .gitkeep only)
   conferences/     (empty — .gitkeep only)
-  leadership/      (empty — .gitkeep only)
+  posters/         (poster/presentation photos and PDFs — .gitkeep only until you upload)
 ```
+
+> `leadership.json` is no longer used (the Leadership page became *Poster & Presentations*, stored in
+> `posters.json`). It is left in the repo untouched in case you want to reuse the text; delete it whenever you like.
+> The `_headers` file lets the website's PDF viewer fetch uploaded PDFs from this site (CORS).
 
 ## What to do with it
 
