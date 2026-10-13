@@ -44,14 +44,6 @@
   ],
   "gallery": [
     {
-      "image": "home/1791400000002-trng01.jpg",
-      "alt": "Receiving the certificate at the DRTMC training on Coastal and Marine Disasters, University of Dhaka, June 2022"
-    },
-    {
-      "image": "home/1791400000003-award1.jpg",
-      "alt": "2nd Prize, Scientific Abstract Competition, Nutrition Summit 2025"
-    },
-    {
       "image": "home/1791400000004-field1.jpg",
       "alt": "UNOCHA project monitoring"
     },
@@ -62,6 +54,14 @@
     {
       "image": "home/1791400000006-graduation1.jpg",
       "alt": "Graduation day"
+    },
+    {
+      "image": "home/1791400000003-award1.jpg",
+      "alt": "2nd Prize, Scientific Abstract Competition, Nutrition Summit 2025"
+    },
+    {
+      "image": "home/1791400000002-trng01.jpg",
+      "alt": "Receiving the certificate at the DRTMC training on Coastal and Marine Disasters, University of Dhaka, June 2022"
     }
   ],
   "education": [
