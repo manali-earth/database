@@ -5,93 +5,16 @@
   "intro": "",
   "sections": [
     {
-      "heading": "Nutrition Summit 2025",
       "content": [
         {
-          "type": "paragraph",
-          "text": "<em>[01/02/2025 - 02/02/2025] Chattogram</em>"
+          "type": "image",
+          "image": "conferences/1791920233035-n9x04k.jpg",
+          "alt": ""
         },
         {
-          "type": "paragraph",
-          "text": "Organized by Institute of Nutrition and Food Science (INFS), University of Dhaka"
-        }
-      ]
-    },
-    {
-      "heading": "Jamal Nazrul Islam and A.F Mujibur Rahman Research and Innovation Festival, 2025",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "<em>[24/02/2025 - 26/02/2025] Chattogram</em>"
-        },
-        {
-          "type": "paragraph",
-          "text": "Organized by Jamal Nazrul Islam Research Centre, University of Chittagong"
-        }
-      ]
-    },
-    {
-      "heading": "PCOS Awareness Program",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "<em>[23/09/2025]</em>"
-        },
-        {
-          "type": "paragraph",
-          "text": "Organized by the Public Health Research Lab, Department of Geography and Environmental Studies, University of Chittagong"
-        }
-      ]
-    },
-    {
-      "heading": "Seminar for 'Energy Justice in Bangladesh'",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "<em>[24/05/2025] Chattogram</em>"
-        },
-        {
-          "type": "paragraph",
-          "text": "Organized by Energy and Social Justice Forum at the Biological Faculty Conference Hall, University of Chittagong"
-        }
-      ]
-    },
-    {
-      "heading": "International Conference on Environmental Protection for Sustainable Development (ICEPSD-2022)",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "<em>[02/09/2022 - 04/09/2022] Dhaka</em>"
-        },
-        {
-          "type": "paragraph",
-          "text": "Held at CIRDAP Conference Hall, University of Dhaka"
-        }
-      ]
-    },
-    {
-      "heading": "International Conference of Physical Science (ICPS-2022)",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "<em>[21/11/2022 - 23/11/2022]</em>"
-        },
-        {
-          "type": "paragraph",
-          "text": "Held at the Shahjalal University of Science and Technology, Sylhet, Bangladesh"
-        }
-      ]
-    },
-    {
-      "heading": "Workshop on “Environmental Pollution and Awareness Raising\"",
-      "content": [
-        {
-          "type": "paragraph",
-          "text": "<em>[18/02/2019]</em>"
-        },
-        {
-          "type": "paragraph",
-          "text": "Organized by “National Environmental Awareness & Restoration (NEAR)” and held at the University of Chittagong, Bangladesh"
+          "type": "image",
+          "image": "conferences/1791920146646-0q2gsg.jpg",
+          "alt": ""
         }
       ]
     }
