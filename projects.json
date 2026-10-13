@@ -164,6 +164,67 @@
           ]
         }
       ]
+    },
+    {
+      "id": "project-7",
+      "category": "unocha",
+      "title": "Field monitoring and FGD in Pahartali Landslide-prone area, Chittagong, and Hnilla, Teknaf, Bangladesh",
+      "meta": "",
+      "image": "projects/1791400000010-fm1.jpg",
+      "summary": "Field monitoring visits and focus group discussions (FGD) in the landslide-prone area of Pahartali, Chittagong, and in Hnilla, Teknaf.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Field monitoring and focus group discussions (FGD) conducted in the landslide-prone area of Pahartali, Chittagong, and in Hnilla, Teknaf, Bangladesh."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791400000010-fm1.jpg",
+              "alt": "Field monitoring"
+            },
+            {
+              "type": "image",
+              "image": "projects/1791400000011-fm2.jpg",
+              "alt": "Field monitoring"
+            },
+            {
+              "type": "image",
+              "image": "projects/1791400000012-fgd1.jpg",
+              "alt": "Focus group discussion (FGD)"
+            },
+            {
+              "type": "image",
+              "image": "projects/1791400000013-fgd2.jpg",
+              "alt": "Focus group discussion (FGD)"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-8",
+      "category": "research-projects",
+      "title": "Street Children Research",
+      "meta": "",
+      "image": "projects/1791400000014-sc1.jpg",
+      "summary": "Field research on street children.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Street Children Research."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791400000014-sc1.jpg",
+              "alt": "Street Children Research field visit"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
