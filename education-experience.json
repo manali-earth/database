@@ -36,5 +36,22 @@
       "details": "<b>Main Responsibilities:</b> Literature review, research design and proposal writing, data collection, data analysis, field supervising, manuscript writing, dealing with stakeholders, reporting, presentation, organizing seminars, etc."
     }
   ],
-  "certificates": []
+  "certificates": [
+    {
+      "image": "education-experience/1791400000011-cert01.jpg",
+      "caption": "Certificate of Completion: primary data collection for the Feasibility Study – Climate Resilience and DRR Programme, movimentar GmbH (30 March 2026)"
+    },
+    {
+      "image": "education-experience/1791400000012-cert02.jpg",
+      "caption": "Certificate of Participation: Basic R for Research, Bangladesh Institute of Innovative Health Research (March 2025)"
+    },
+    {
+      "image": "education-experience/1791400000013-cert03.jpg",
+      "caption": "Certificate of Participation: Data Analysis with SPSS, Bangladesh Institute of Innovative Health Research (27 February – 7 March 2025)"
+    },
+    {
+      "image": "education-experience/1791400000014-cert04.jpg",
+      "caption": "Certificate of Participation: Coastal and Marine Disasters: Bangladesh Perspectives, DRTMC, University of Dhaka (23–25 June 2022)"
+    }
+  ]
 }

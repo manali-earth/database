@@ -3,5 +3,104 @@
   "title": "Poster & Presentations",
   "heading": "Poster & Presentations",
   "intro": "",
-  "posters": []
+  "posters": [
+    {
+      "id": "poster-1",
+      "title": "Association Between Mental Health and Overweight/Obesity Among Reproductive Women in Chattogram Division: A Cross-Sectional Study",
+      "meta": "Poster · Nutrition Summit 2025",
+      "image": "posters/1791200000001-nut5ob.jpg",
+      "summary": "Cross-sectional study of 405 reproductive-aged women using DASS-21; depression was significantly associated with overweight/obesity (OR 1.776, 95% CI 1.142–2.762).",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Md Rezaul Mia, Md. Faisal Ahmed, Maharaj Khan Muna, Muhammad Shahariar, Rim Dilower. Presented at the Nutrition Summit 2025, organized by the Institute of Nutrition and Food Science, University of Dhaka."
+            },
+            {
+              "type": "pdf",
+              "pdf": "posters/1791200000001-nut5ob.pdf",
+              "caption": "Poster (page 1) and published abstract (page 2), Nutrition Summit 2025."
+            }
+          ]
+        },
+        {
+          "heading": "Major predictive factors of obesity in women in Bangladesh",
+          "content": [
+            {
+              "type": "image",
+              "image": "posters/1791200000005-obfig.png",
+              "alt": "Percentage of participants by (a) body mass index status, (b) depression, (c) anxiety and (d) stress status."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poster-2",
+      "title": "Health Hazards Among E-waste Recyclers in Chattogram City, Bangladesh: A Cross-Sectional Analysis of Workplace Safety and Chronic Conditions",
+      "meta": "Poster · Chattogram Research & Innovation Festival 2025",
+      "image": "posters/1791200000002-ewst7k.jpg",
+      "summary": "Survey of 84 e-waste workers in Chattogram City Corporation: burning and dismantling were significantly linked to cuts and burns, skin problems and red, itchy eyes; no link was found between heavy metal exposure and chronic illness.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Maharaj Khan Muna, Muhammad Shahariar, Umme Laiba Raha, Dr. Alak Paul. Department of Geography and Environmental Studies, University of Chittagong."
+            },
+            {
+              "type": "pdf",
+              "pdf": "posters/1791200000002-ewst7k.pdf",
+              "caption": "Poster presented at the Jamal Nazrul Islam and A.F Mujibur Rahman Research and Innovation Festival 2025."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poster-3",
+      "title": "Evaluating the Major Causes of Carbon Emissions in Chittagong Port: An Overview",
+      "meta": "Poster · ICEPSD-2022",
+      "image": "posters/1791200000003-icpsd3.jpg",
+      "summary": "Secondary-data review of CO2, carbon monoxide and black carbon emissions from head trucks, container handling equipment and locomotives at Chittagong Port, with policy recommendations.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Maharaj Khan Muna, Department of Geography and Environmental Studies, University of Chittagong. International Conference on Environmental Protection for Sustainable Development (ICEPSD-2022), Dhaka."
+            },
+            {
+              "type": "pdf",
+              "pdf": "posters/1791200000003-icpsd3.pdf",
+              "caption": "Poster (page 1) and conference abstract book pages (pages 2–3), ICEPSD-2022."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poster-4",
+      "title": "Electricity Consumption and Sense of 'Environment' in Everyday Practice: A Cross-Sectional Study in Bangladesh",
+      "meta": "Presentation · ICPS-2022",
+      "image": "posters/1791200000004-elec4p.jpg",
+      "summary": "Household questionnaire survey of 300 respondents across all eight divisions on electricity use, appliance choice and environmental awareness, analyzed with chi-square tests.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Maharaj Khan Muna, Umme Laiba Raha, Dr. Alak Paul. Department of Geography and Environmental Studies, University of Chittagong."
+            },
+            {
+              "type": "pdf",
+              "pdf": "posters/1791200000004-elec4p.pdf",
+              "caption": "Presentation slides followed by the published abstract (Abstract ID GEE-OP-02)."
+            }
+          ]
+        }
+      ]
+    }
+  ]
 }

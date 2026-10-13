@@ -80,6 +80,90 @@
         }
       ],
       "summary": "The map demonstrating the spread of street children community in Chattogram city corporation."
+    },
+    {
+      "id": "project-4",
+      "category": "research-projects",
+      "title": "Knowledge Level of Women in Bangladesh about PCOS",
+      "meta": "",
+      "image": "projects/1791300000015-pcknw.png",
+      "summary": "Research on how much women in Bangladesh know about polycystic ovary syndrome (PCOS) and on depression, anxiety, stress and total distress scores by PCOS status.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "This research assesses the knowledge level of women in Bangladesh about PCOS and compares mean depression, anxiety, stress and total distress scores across PCOS status (Not Known, Positive, Negative). Knowledge was low for most women (63.7%), moderate for 21.5% and high for 14.7%. Mean scores for all four measures were highest among women with a positive PCOS status."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791300000015-pcknw.png",
+              "alt": "Knowledge level of women about PCOS: low 263 (63.7%), moderate 89 (21.5%), high 61 (14.7%)."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791300000011-pcdep.png",
+              "alt": "Depression mean score by PCOS status (Not Known, Positive, Negative)."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791300000012-pcanx.png",
+              "alt": "Anxiety mean score by PCOS status (Not Known, Positive, Negative)."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791300000013-pcstr.png",
+              "alt": "Stress mean score by PCOS status (Not Known, Positive, Negative)."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791300000014-pcdis.png",
+              "alt": "Total distress mean score regarding PCOS status (Not Known, Positive, Negative)."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-5",
+      "category": "research-projects",
+      "title": "Health Hazards Among E-waste Recyclers in Chattogram City",
+      "meta": "Data collected January to March 2024",
+      "image": "projects/1791300000020-ewxtab.jpg",
+      "summary": "Cross-sectional survey of 84 e-waste workers in Chattogram City Corporation on workplace injuries and health issues by working category (collecting, burning, dismantling).",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "A purposive cross-sectional survey of 84 e-waste recyclers in Chattogram City Corporation, collected through face-to-face interviews using Kobo Toolbox and analyzed in SPSS. Workers involved in burning and dismantling showed significant associations with cuts and burns, itching and skin problems, and red, itchy eyes (p = 0.00)."
+            },
+            {
+              "type": "image",
+              "image": "projects/1791300000020-ewxtab.jpg",
+              "alt": "Cross-tabulation of work involvement (collecting, burning, dismantling) and health issues among e-waste recyclers."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-6",
+      "category": "gis-maps",
+      "title": "E-waste Study Area Map, Chattogram",
+      "meta": "",
+      "image": "projects/1791300000021-ewmap.jpg",
+      "summary": "Study area map showing the locations of e-waste workers surveyed across Chattogram City Corporation, with Bangladesh as the locator map.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Study area map for the e-waste recycler health survey in Chattogram, showing surveyed e-waste locations across Sitakunda, Panchlaish, Khulshi, Pahartali, Halishahar, Double Mooring, Kotwali, Bakalia, Chandgaon and Chittagong Port, with the study area highlighted on a map of Bangladesh."
+            }
+          ]
+        }
+      ]
     }
   ]
 }
