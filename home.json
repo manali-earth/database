@@ -44,10 +44,6 @@
   ],
   "gallery": [
     {
-      "image": "home/1791400000004-field1.jpg",
-      "alt": "UNOCHA project monitoring"
-    },
-    {
       "image": "home/1791400000005-biihr1.jpg",
       "alt": "BIIHR congratulations: First Place in M.Sc. with a CGPA of 3.94, thesis awarded Best in Cohort"
     },
@@ -62,6 +58,22 @@
     {
       "image": "home/1791400000002-trng01.jpg",
       "alt": "Receiving the certificate at the DRTMC training on Coastal and Marine Disasters, University of Dhaka, June 2022"
+    },
+    {
+      "image": "home/1792000000017-stc-field.jpg",
+      "alt": "Field monitoring moments with Save the Children MIS colleagues"
+    },
+    {
+      "image": "home/1792000000018-stc-firstday.jpg",
+      "alt": "First day at Save the Children Ukhiya office"
+    },
+    {
+      "image": "home/1792000000019-thesis-submit.jpg",
+      "alt": "A proud moment of submiting MS thesis manuscript to Professor Dr. Alak Paul"
+    },
+    {
+      "image": "home/1792000000020-stc-workshop.jpg",
+      "alt": "Save the Children Team building all staff workshop. A Demonstration of women empowerment standing as the only female in the MIS team."
     }
   ],
   "education": [
@@ -83,7 +95,7 @@
       "period": "Apr 2026 - Present",
       "institution": "Save the Children in Bangladesh",
       "role": "Assistant- MIS",
-      "details": "Conducted science labs and worked on geospatial projects."
+      "details": "<b>Designated project:</b> UNOCHA, DFAT (Provide assistance for all 12 projects including internationally funded projects: ECHO HIP, DANIDA, POSNER, SONY, Telethon, UNICEF etc.)<br>\n<b>Major responsibilities:</b><br>\n<b>GIS Mapping:</b> Visualizing CP facilities and service stations on GIS based maps, population density mapping, camp and host community mapping, disaster affected area mapping, DRR implementation area mapping, LULCC mapping etc.<br>\n<b>Database management:</b> Managing and updating major databases including: Activity Tracker (Monthly analysis of beneficiaries attended training, meeting, session etc.), Group Tracker (Total number of groups and participants), Enrollment Tracker (Total number of beneficiaries enrolled in MPCAC facilities), CPIMS+ (A broad database that records number of cases - neglect, abuse, harassment, exploitation, child marriage etc.), Case Management Tracker (Number of beneficiaries faces different cases, a monthly record by each case worker), CP Facility Database (Data records of child protection facility offices, including GPS location, camp, block number etc.)<br>\n<b>MEAL assistance:</b> IPTT reporting (Providing indicator wise beneficiary count to the MEAL team), Reach reporting (Grant wise and at a glance reach to total beneficiaries), 5W reporting (providing sub sector required data), assist the MEAL team in baseline and endline questionnaire tool development.<br>\n<b>Data assessment:</b> Monthly assessment of data through verifying with hardcopies and Kobo datasets, regular communication with field staff regarding data validation, assessment and problem solving.<br>\n<b>Other reports:</b><br>\n<b>Factsheets:</b> Providing grant-wise and at a glance progress by visualizing data for activities, cases, groups, facilities etc.<br>\n<b>Qualitative reports:</b> Providing qualitative reports through thematic analysis of KII, FGD, IDI data."
     },
     {
       "period": "Feb 2024 - Present",
@@ -123,20 +135,28 @@
   ],
   "publications": [
     {
-      "id": "urban-park-use",
-      "year": "2023",
-      "title": "Changing Perspectives in Urban Park Use and Management in Dhaka City, Bangladesh",
-      "authors": "Hoque S., Rishal F.H. and Saika U.",
-      "status": "The Jahangirnagar Review, Part II: Vol. 47",
-      "link": "https://www.researchgate.net/"
+      "id": "publication-1",
+      "year": "2024",
+      "title": "Understanding polycystic ovary syndrome (PCOS) and mental health disparities in Bangladeshi women: A mixed method approach",
+      "authors": "Khan, M., Jaman, A., Ahmed, M. F., & Das, N.",
+      "status": "European Journal of Medical and Health Research, 2(5), 217-225",
+      "link": "https://doi.org/10.59324/ejmhr.2024.2(5).22"
     },
     {
-      "id": "post-disaster-recovery",
-      "year": "2023",
-      "title": "Post-disaster Recovery for Building Resilience: Bangladesh Perspective",
-      "authors": "Rishal F.H., Huda K.M.S., Islam M.N., Islam and S.T.",
-      "status": "Lecture Notes in Civil Engineering, vol 283. Springer",
-      "link": "https://doi.org/10.1007/978-981-19-4715-5_11"
+      "id": "publication-2",
+      "year": "2024",
+      "title": "Advancing Patient Outcomes through Collaborative Care: A Narrative Review of Evidence from Integrated Behavioral Healthcare",
+      "authors": "Ahmed, M. F., Jaman, A., Barman, M., Iloanusi, C., Muna, M. K., & Arefine, R.",
+      "status": "Europasian Journal of Medical Sciences, 6(9)",
+      "link": "https://doi.org/10.46405/ejms.v6i9.546"
+    },
+    {
+      "id": "publication-3",
+      "year": "2025",
+      "title": "Occupational health risks among e-waste recyclers in Chattogram, Bangladesh: A cross-sectional study",
+      "authors": "Muna, M. K., Raha, U. L., Shahariar, M., Mallick, S. S., Mazumder, S., & Paul, A.",
+      "status": "Jahangirnagar University Environmental Bulletin, 10, 1–17",
+      "link": ""
     }
   ],
   "contact": {

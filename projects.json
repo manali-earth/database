@@ -22,7 +22,7 @@
     },
     {
       "id": "academic-field",
-      "label": "Academic field projects"
+      "label": "Academic fieldworks"
     },
     {
       "id": "feasibility-study",
@@ -54,6 +54,11 @@
       "sections": [
         {
           "content": [
+            {
+              "type": "image",
+              "image": "projects/1791400000004-unocha-field.jpg",
+              "alt": "UNOCHA project monitoring"
+            },
             {
               "type": "paragraph",
               "text": "The funded project's objective is to manage the major cases occurs at the Rohingya Refugee camps. The migrant children regularly face severe misconduct such as neglect, harm, abuse, exploitation, harrassment,etc, which are identified, monitored and solved by the appointed case workers. My responsibility under UNOCHA project as an MIS is to deploy the case management database, analysis collected data and report the cases, case progress and major case trends. However, already completed the first phase of this project and got assigned for the second phase till december 2027. My aim for the second phase is to report major case trends and highlight the extremely risky camps on maps. Moreover, the facility offices will be demonstrated on GIS based maps on upcoming day."
@@ -167,7 +172,7 @@
     },
     {
       "id": "project-7",
-      "category": "unocha",
+      "category": "feasibility-study",
       "title": "Field monitoring and FGD in Pahartali Landslide-prone area, Chittagong, and Hnilla, Teknaf, Bangladesh",
       "meta": "",
       "image": "projects/1791400000010-fm1.jpg",
@@ -221,6 +226,141 @@
               "type": "image",
               "image": "projects/1791400000014-sc1.jpg",
               "alt": "Street Children Research field visit"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-9",
+      "category": "academic-field",
+      "title": "Fourth year fieldwork: Climate change impacts on community people of Sundarbans, Bangladesh (2023)",
+      "meta": "2023",
+      "image": "projects/1792000000010-sf-group.jpg",
+      "summary": "Fourth year fieldwork (2023) on the impacts of climate change on community people in the Sundarbans, Bangladesh.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Fourth year fieldwork carried out in the Sundarbans, Bangladesh in 2023, on the impacts of climate change on community people."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000010-sf-group.jpg",
+              "alt": "Field team and students at the Sundarbans fieldwork site, 2023"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000011-sf-visit.jpg",
+              "alt": "Field visit in a Sundarbans village settlement, 2023"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000012-sf-interview.jpg",
+              "alt": "Interview with a community member at a local shop in the Sundarbans, 2023"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-10",
+      "category": "academic-field",
+      "title": "Third year fieldwork: Assessing soil characteristics and observing livelihood pattern of the tea workers in Khadimnagar Upazila, Sylhet (2022)",
+      "meta": "2022",
+      "image": "projects/1792000000013-tf-group.jpg",
+      "summary": "Third year fieldwork (2022) assessing soil characteristics and observing the livelihood pattern of tea workers in Khadimnagar Upazila, Sylhet.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Third year fieldwork carried out in Khadimnagar Upazila, Sylhet in 2022, assessing soil characteristics and observing the livelihood pattern of the tea workers."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000013-tf-group.jpg",
+              "alt": "Field team and students at the tea research field station, Khadimnagar, Sylhet, 2022"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000014-tf-interview.jpg",
+              "alt": "Interview with a tea worker in Khadimnagar, Sylhet, 2022"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-11",
+      "category": "academic-field",
+      "title": "Second year fieldwork: Geomorphological features at Guliyakhali Sea beach, Sitakundu, Bangladesh (2021)",
+      "meta": "2021",
+      "image": "projects/1792000000015-gm-beach.jpg",
+      "summary": "Second year fieldwork (2021) on the geomorphological features at Guliyakhali Sea beach, Sitakundu, Bangladesh.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Second year fieldwork carried out at Guliyakhali Sea beach, Sitakundu, Bangladesh in 2021, on the geomorphological features of the coastal belt."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000015-gm-beach.jpg",
+              "alt": "Field observation at Guliyakhali Sea beach, Sitakundu, 2021 - students recording coastal features"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-12",
+      "category": "academic-field",
+      "title": "First year fieldwork: Detecting land Use changing pattern of Feni Town, Bangladesh (2019)",
+      "meta": "2019",
+      "image": "projects/1792000000016-lu-feni.jpg",
+      "summary": "First year fieldwork (2019) detecting the land use changing pattern of Feni Town, Bangladesh.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "First year fieldwork carried out in Feni Town, Bangladesh in 2019, detecting the land use changing pattern of the area."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000016-lu-feni.jpg",
+              "alt": "Field team at the Feni Town land use survey site, 2019"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-13",
+      "category": "feasibility-study",
+      "title": "Conducting FGDs in landslide prone households in the top of the hills at Teknaf and Pahartali, Chattogram",
+      "meta": "",
+      "image": "projects/1792000000021-fgd-hilltop.jpg",
+      "summary": "Facilitation of focus group discussions (FGDs) with households in landslide prone areas at the top of the hills in Teknaf and Pahartali, Chattogram.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Focus group discussions were conducted with households living in landslide prone areas at the top of the hills in Teknaf and Pahartali, Chattogram."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000021-fgd-hilltop.jpg",
+              "alt": "Focus group discussion with hillside households, Teknaf and Pahartali, Chattogram"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000022-fgd-household.jpg",
+              "alt": "Focus group discussion inside a household, Teknaf and Pahartali, Chattogram"
             }
           ]
         }

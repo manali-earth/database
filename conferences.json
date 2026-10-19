@@ -1,7 +1,7 @@
 {
   "page": "conferences",
-  "title": "Conference & Presentations",
-  "heading": "Conference & Presentations",
+  "title": "Seminar & presentation",
+  "heading": "Seminar & presentation",
   "intro": "",
   "sections": [
     {
@@ -15,6 +15,49 @@
           "type": "image",
           "image": "conferences/1791920146646-0q2gsg.jpg",
           "alt": ""
+        }
+      ]
+    },
+    {
+      "heading": "'World Environment Day, 2022' celebration",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Performed as an organizing member in management committee."
+        },
+        {
+          "type": "image",
+          "image": "conferences/1792000000003-wed-poster.jpg",
+          "alt": "World Environment Day 2022 - hand-painted campaign poster"
+        },
+        {
+          "type": "image",
+          "image": "conferences/1792000000001-wed-banner.jpg",
+          "alt": "World Environment Day 2022 - organizing committee with the 'Only One Earth' banner"
+        },
+        {
+          "type": "image",
+          "image": "conferences/1792000000002-wed-group.jpg",
+          "alt": "World Environment Day 2022 - participants holding campaign placards"
+        }
+      ]
+    },
+    {
+      "heading": "Human Chain for reducing Carbon Footprint, 24 June 2021",
+      "content": [
+        {
+          "type": "paragraph",
+          "text": "Participated as an organizing member."
+        },
+        {
+          "type": "image",
+          "image": "conferences/1792000000004-hc-chain.jpg",
+          "alt": "Human Chain for reducing Carbon Footprint, 24 June 2021, Chattogram"
+        },
+        {
+          "type": "image",
+          "image": "conferences/1792000000005-hc-banner.jpg",
+          "alt": "Human Chain for reducing Carbon Footprint, 24 June 2021 - participants with the campaign banner"
         }
       ]
     }
