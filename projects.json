@@ -5,20 +5,12 @@
   "intro": "Here are some of the recent geospatial projects answering environment-related spatial questions, using tools like ArcGIS Pro, Google Earth Engine, QGIS, GeoDa, Python, and R to analyze, visualize, and map meaningful insights — from detecting LULC change with a Random Forest machine learning model to regression models, vulnerability assessments, and hotspot analysis.",
   "categories": [
     {
-      "id": "data-analysis-visualization",
-      "label": "Data analysis and visualization"
-    },
-    {
       "id": "gis-maps",
       "label": "GIS maps"
     },
     {
       "id": "unocha",
       "label": "UNOCHA project"
-    },
-    {
-      "id": "public-health",
-      "label": "Public Health projects"
     },
     {
       "id": "academic-field",
