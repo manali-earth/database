@@ -1,0 +1,25 @@
+name: Photos size limit
+
+# photos/ must NEVER grow past 80 MB: a hard, permanent storage limit (see STORAGE-LIMIT.md). Do not raise, bypass or disable this check.
+on:
+  push:
+  pull_request:
+
+env:
+  PHOTOS_LIMIT_MB: 80
+
+jobs:
+  photos-size:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check the size of photos/
+        run: |
+          if [ ! -d photos ]; then echo "No photos/ directory."; exit 0; fi
+          used=$(du -sb photos | cut -f1)
+          limit=$((PHOTOS_LIMIT_MB * 1024 * 1024))
+          echo "photos/ is $((used / 1024 / 1024)) MB of ${PHOTOS_LIMIT_MB} MB"
+          if [ "$used" -gt "$limit" ]; then
+            echo "::error::photos/ exceeds the ${PHOTOS_LIMIT_MB} MB storage limit. Remove or shrink files."
+            exit 1
+          fi
