@@ -13,6 +13,10 @@
       "label": "UNOCHA project"
     },
     {
+      "id": "undp-plastic-waste",
+      "label": "UNDP Plastic Waste Project"
+    },
+    {
       "id": "academic-field",
       "label": "Academic fieldworks"
     },
@@ -353,6 +357,207 @@
               "type": "image",
               "image": "projects/1792000000022-fgd-household.jpg",
               "alt": "Focus group discussion inside a household, Teknaf and Pahartali, Chattogram"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-14",
+      "category": "unocha",
+      "title": "Training on Mental Health and Psychosocial Support (MHPSS), including Psychological First Aid (PFA)",
+      "meta": "",
+      "image": "projects/1792000000030-mhpss-training.jpg",
+      "summary": "Participation in a two-day training on MHPSS, including Psychological First Aid (PFA), organized by Save the Children under the Child Protection program, Cox's Bazar.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Took part in the two-day training on Mental Health and Psychosocial Support (MHPSS), including Psychological First Aid (PFA), organized by Save the Children's Child Protection program in Cox's Bazar. The sessions combined presentations with scenario-based group work, such as responding to the reactions of children and adults after a school fire, and group exercises, including mapping activities."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000030-mhpss-training.jpg",
+              "alt": "Training on MHPSS, including Psychological First Aid (PFA): a group presents its scenario discussion to participants"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000031-mhpss-group-mapping.jpg",
+              "alt": "Participants working together on a hand-drawn map during the MHPSS and PFA training"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-15",
+      "category": "feasibility-study",
+      "title": "Landslide-prone households in Teknaf, Bangladesh",
+      "meta": "",
+      "image": "projects/1792000000032-teknaf-hillside-house.jpg",
+      "summary": "Field visit to households on steep, landslide-prone hill slopes in Teknaf, Bangladesh.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Field visit to households living on steep, landslide-prone hill slopes in Teknaf, Bangladesh, as part of the feasibility study."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000032-teknaf-hillside-house.jpg",
+              "alt": "A household at the top of an eroded hill slope in Teknaf, Bangladesh"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000033-teknaf-hillside-steps.jpg",
+              "alt": "Steps with a bamboo railing leading down a hill slope to a household in Teknaf, Bangladesh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-16",
+      "category": "feasibility-study",
+      "title": "Conducting FGDs with local people on landslides, flash floods and DRR initiatives in Hnilla, Teknaf, Bangladesh",
+      "meta": "",
+      "image": "projects/1792000000034-hnilla-fgd-drr.jpg",
+      "summary": "Focus group discussions (FGDs) with a team of local people on landslides, flash floods and disaster risk reduction (DRR) initiatives in Hnilla, Teknaf.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Focus group discussions (FGDs) were conducted with a team of local people in Hnilla, Teknaf, Bangladesh, discussing landslides, flash floods and disaster risk reduction (DRR) initiatives as part of the feasibility study."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000034-hnilla-fgd-drr.jpg",
+              "alt": "Focus group discussion with local people on landslides, flash floods and DRR initiatives in Hnilla, Teknaf"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-17",
+      "category": "feasibility-study",
+      "title": "Dealing with the representative of Caritas Germany at the Caritas Bangladesh Ukhiya Office",
+      "meta": "",
+      "image": "projects/1792000000035-caritas-meeting-1.jpg",
+      "summary": "Meeting and coordination with a foreign representative of Caritas Germany at the Caritas Bangladesh Ukhiya Office during the feasibility study.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Met and coordinated with a foreign representative of Caritas Germany at the Caritas Bangladesh Ukhiya Office during the feasibility study."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000035-caritas-meeting-1.jpg",
+              "alt": "Meeting with a representative of Caritas Germany at the Caritas Bangladesh Ukhiya Office"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000036-caritas-meeting-2.jpg",
+              "alt": "Discussion with Caritas Bangladesh staff and the Caritas Germany representative at the Ukhiya Office"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-18",
+      "category": "undp-plastic-waste",
+      "title": "UNDP Plastic Waste Project",
+      "meta": "",
+      "image": "projects/1792000000037-undp-plastic-sorting.jpg",
+      "summary": "Data enumerator for a UNDP-funded project on plastic waste management in Chattogram City Corporation, collecting data with the Kobo Collect mobile app.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Contributed as a Data Enumerator for a UNDP-funded project on plastic waste management in Chattogram City Corporation. Used the Kobo Collect mobile app for data collection."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000037-undp-plastic-sorting.jpg",
+              "alt": "Workers sorting plastic waste at a recycling facility in Chattogram"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000038-undp-plastic-dumpsite.jpg",
+              "alt": "Waste pickers at a dumpsite with an excavator, Chattogram"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000039-undp-plastic-bottles.jpg",
+              "alt": "Data collection at a plastic bottle collection point in Chattogram"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-19",
+      "category": "research-projects",
+      "title": "Street children research: Conducting anthropometric measurement",
+      "meta": "",
+      "image": "projects/1792000000041-sc-anthropometry.jpg",
+      "summary": "Anthropometric measurements of street children in Chattogram during the field data collection for the street children health research.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Conducted anthropometric measurements of street children in Chattogram during field data collection for the street children health research."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000041-sc-anthropometry.jpg",
+              "alt": "Conducting anthropometric measurement of a street child during field data collection"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "project-20",
+      "category": "research-projects",
+      "title": "Street children research: Leading the field data collection team",
+      "meta": "",
+      "image": "projects/1792000000043-sc-team-slum.jpg",
+      "summary": "Led a team of 10 university students in collecting data from slum areas, railway stations, parks and street sides where street children aggregate.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Led a team of 10 university students in data collection from slum areas, railway stations, parks and street sides where the street children aggregated."
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000043-sc-team-slum.jpg",
+              "alt": "Data collection team with street children in a slum area"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000044-sc-slum-lane.jpg",
+              "alt": "Data collector interviewing a child in a slum lane"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000045-sc-data-collection.jpg",
+              "alt": "Team members collecting data with a child outside a slum dwelling"
+            },
+            {
+              "type": "image",
+              "image": "projects/1792000000046-sc-railway.jpg",
+              "alt": "Railway yard where street children gather, one of the data collection sites"
             }
           ]
         }

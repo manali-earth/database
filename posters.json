@@ -77,6 +77,31 @@
               "caption": "Poster (page 1) and conference abstract book pages (pages 2–3), ICEPSD-2022."
             }
           ]
+        },
+        {
+          "heading": "Published Scientific Abstract",
+          "content": [
+            {
+              "type": "image",
+              "image": "posters/1791200000007-icepsd-abstract-1.jpg",
+              "alt": "Published abstract PP-25, 'Evaluating the Major Causes of Carbon Emissions in Chittagong Port: An Overview', ICEPSD-2022 abstract book, page 334"
+            },
+            {
+              "type": "image",
+              "image": "posters/1791200000008-icepsd-abstract-2.jpg",
+              "alt": "Published abstract PP-25 continued, ICEPSD-2022 abstract book"
+            }
+          ]
+        },
+        {
+          "heading": "Certificate of Appreciation",
+          "content": [
+            {
+              "type": "image",
+              "image": "posters/1791200000006-icpsd-cert.jpg",
+              "alt": "Certificate of Appreciation as Poster Presenter, ICEPSD-2022, held 2-4 September 2022 at CIRDAP and University of Dhaka"
+            }
+          ]
         }
       ]
     },
@@ -97,6 +122,43 @@
               "type": "pdf",
               "pdf": "posters/1791200000004-elec4p.pdf",
               "caption": "Presentation slides followed by the published abstract (Abstract ID GEE-OP-02)."
+            }
+          ]
+        },
+        {
+          "heading": "Published Scientific Abstract",
+          "content": [
+            {
+              "type": "image",
+              "image": "posters/1791200000009-icps-abstract.jpg",
+              "alt": "Published abstract GEE-OP-02, 'Electricity consumption and sense of environment in everyday practice: a cross-sectional study in Bangladesh', Geography & Environment, page 120"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poster-5",
+      "title": "Training on Coastal and Marine Disasters: Bangladesh Perspectives",
+      "meta": "Training · DRTMC, University of Dhaka · 23–25 June 2022",
+      "image": "posters/1791200000010-cmd-training-group.jpg",
+      "summary": "Three-day training program on coastal and marine disasters from a Bangladesh perspective, organized by the Disaster Research, Training and Management Centre (DRTMC), University of Dhaka.",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "paragraph",
+              "text": "Participated in the training program on Coastal and Marine Disasters: Bangladesh Perspectives, held on 23–25 June 2022 and organized by the Disaster Research, Training and Management Centre (DRTMC), University of Dhaka."
+            },
+            {
+              "type": "image",
+              "image": "posters/1791200000010-cmd-training-group.jpg",
+              "alt": "Group photo of the participants of the Training Program on Coastal and Marine Disasters: Bangladesh Perspectives, University of Dhaka, 23–25 June 2022"
+            },
+            {
+              "type": "image",
+              "image": "posters/1791200000011-cmd-training-certificate.jpg",
+              "alt": "Receiving the certificate at the Training Program on Coastal and Marine Disasters: Bangladesh Perspectives, University of Dhaka"
             }
           ]
         }
