@@ -77,31 +77,6 @@
               "caption": "Poster (page 1) and conference abstract book pages (pages 2–3), ICEPSD-2022."
             }
           ]
-        },
-        {
-          "heading": "Published Scientific Abstract",
-          "content": [
-            {
-              "type": "image",
-              "image": "posters/1791200000007-icepsd-abstract-1.jpg",
-              "alt": "Published abstract PP-25, 'Evaluating the Major Causes of Carbon Emissions in Chittagong Port: An Overview', ICEPSD-2022 abstract book, page 334"
-            },
-            {
-              "type": "image",
-              "image": "posters/1791200000008-icepsd-abstract-2.jpg",
-              "alt": "Published abstract PP-25 continued, ICEPSD-2022 abstract book"
-            }
-          ]
-        },
-        {
-          "heading": "Certificate of Appreciation",
-          "content": [
-            {
-              "type": "image",
-              "image": "posters/1791200000006-icpsd-cert.jpg",
-              "alt": "Certificate of Appreciation as Poster Presenter, ICEPSD-2022, held 2-4 September 2022 at CIRDAP and University of Dhaka"
-            }
-          ]
         }
       ]
     },
@@ -122,16 +97,6 @@
               "type": "pdf",
               "pdf": "posters/1791200000004-elec4p.pdf",
               "caption": "Presentation slides followed by the published abstract (Abstract ID GEE-OP-02)."
-            }
-          ]
-        },
-        {
-          "heading": "Published Scientific Abstract",
-          "content": [
-            {
-              "type": "image",
-              "image": "posters/1791200000009-icps-abstract.jpg",
-              "alt": "Published abstract GEE-OP-02, 'Electricity consumption and sense of environment in everyday practice: a cross-sectional study in Bangladesh', Geography & Environment, page 120"
             }
           ]
         }
@@ -159,6 +124,34 @@
               "type": "image",
               "image": "posters/1791200000011-cmd-training-certificate.jpg",
               "alt": "Receiving the certificate at the Training Program on Coastal and Marine Disasters: Bangladesh Perspectives, University of Dhaka"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "poster-6",
+      "title": "Published Scientific Abstract",
+      "meta": "Presentation · ICPS-2022 & ICEPSD-2022",
+      "image": "posters/1791200000009-icps-abstract.jpg",
+      "summary": "Published abstracts of my conference presentations: the electricity consumption study (ICPS-2022, Abstract ID GEE-OP-02) and the carbon emissions study of Chittagong Port (ICEPSD-2022, PP-25).",
+      "sections": [
+        {
+          "content": [
+            {
+              "type": "image",
+              "image": "posters/1791200000009-icps-abstract.jpg",
+              "alt": "Published abstract GEE-OP-02: Electricity consumption and sense of 'environment' in everyday practice: a cross-sectional study in Bangladesh (Geography & Environment, page 120)"
+            },
+            {
+              "type": "image",
+              "image": "posters/1791200000007-icepsd-abstract-1.jpg",
+              "alt": "Published abstract PP-25: Evaluating the Major Causes of Carbon Emissions in Chittagong Port: An Overview (ICEPSD-2022 abstract book, page 334)"
+            },
+            {
+              "type": "image",
+              "image": "posters/1791200000008-icepsd-abstract-2.jpg",
+              "alt": "Published abstract PP-25 continued (ICEPSD-2022 abstract book)"
             }
           ]
         }
